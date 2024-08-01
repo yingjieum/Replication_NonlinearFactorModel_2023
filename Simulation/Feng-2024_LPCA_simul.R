@@ -1,6 +1,6 @@
 #######################################################
 #### This file replicates the simulation results ######
-############## in Feng (2023)  ########################
+############## in Feng (2024)  ########################
 ## Optimal Est. of Large Dim. Nonlinear Factor Models #
 ########### Author: Yingjie Feng ######################
 ########## Last updated: 11/12/2023 ###################
